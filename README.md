@@ -14,10 +14,10 @@ than the latest released 0.10.0 version only!) based programming scripts.
 The [FRDM-KW41Z mbed OS][] page contains a useful schematic and description of the available
 peripherals.
 
-[FRDM-KW41Z]:(https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/kinetis-cortex-m-mcus/w-serieswireless-conn.m0-plus-m4/freedom-development-kit-for-kinetis-kw41z-31z-21z-mcus:FRDM-KW41Z)
-[FRDM-KW41Z mbedOS]:(https://os.mbed.com/platforms/FRDM-KW41Z/)
-[cortex-m]:(https://github.com/japaric/cortex-m)
-[cortex-m-rt]:(https://github.com/japaric/cortex-m-rt)
+[FRDM-KW41Z]: https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/kinetis-cortex-m-mcus/w-serieswireless-conn.m0-plus-m4/freedom-development-kit-for-kinetis-kw41z-31z-21z-mcus:FRDM-KW41Z
+[FRDM-KW41Z mbedOS]: https://os.mbed.com/platforms/FRDM-KW41Z/
+[cortex-m]: https://github.com/japaric/cortex-m
+[cortex-m-rt]: https://github.com/japaric/cortex-m-rt
 
 License
 -------
