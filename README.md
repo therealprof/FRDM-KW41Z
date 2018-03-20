@@ -11,7 +11,7 @@ either with the default J-Link firmware or with a DAPLink firmware, the latter
 is easier to interface with and thus assumed by the supplied OpenOCD (later
 than the latest released 0.10.0 version only!) based programming scripts.
 
-The [FRDM-KW41Z mbed OS][] page contains a useful schematic and description of the available
+The [FRDM-KW41Z mbedOS][] page contains a useful schematic and description of the available
 peripherals.
 
 [FRDM-KW41Z]: https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/kinetis-cortex-m-mcus/w-serieswireless-conn.m0-plus-m4/freedom-development-kit-for-kinetis-kw41z-31z-21z-mcus:FRDM-KW41Z
