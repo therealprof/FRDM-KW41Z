@@ -3,9 +3,10 @@
 #![no_std]
 
 extern crate mkw41z_hal as hal;
+extern crate panic_abort;
 
-use hal::prelude::*;
 use hal::mkw41z;
+use hal::prelude::*;
 
 extern crate cortex_m;
 

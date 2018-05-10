@@ -5,15 +5,15 @@
 #![feature(const_fn)]
 #![allow(non_camel_case_types)]
 
-pub extern crate mkw41z_hal as hal;
 pub extern crate mkw41z;
+pub extern crate mkw41z_hal as hal;
 
-extern crate nb;
 extern crate cortex_m;
 extern crate cortex_m_rt;
+extern crate nb;
 
-pub use mkw41z::*;
-pub use mkw41z::interrupt::*;
-pub use cortex_m_rt::*;
 pub use cortex_m::*;
+pub use cortex_m_rt::*;
 pub use hal::*;
+pub use mkw41z::interrupt::*;
+pub use mkw41z::*;

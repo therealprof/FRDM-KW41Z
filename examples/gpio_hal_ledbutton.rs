@@ -4,10 +4,11 @@
 
 extern crate cortex_m;
 extern crate mkw41z_hal as hal;
+extern crate panic_abort;
 
-use hal::prelude::*;
-use hal::mkw41z;
 use hal::delay::Delay;
+use hal::mkw41z;
+use hal::prelude::*;
 
 fn main() {
     if let (Some(cp), Some(p)) = (
